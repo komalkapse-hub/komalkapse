@@ -1,7 +1,7 @@
 <!-- ===================== TOP PROFESSIONAL PROGRAMMER GIRL BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=1600&q=80"
+    src="https://images.unsplash.com/photo-1581091870627-3d5f3f5f1a64?auto=format&fit=crop&w=1600&q=80"
     alt="Professional Woman Software Developer"
     width="100%"
   />
@@ -16,7 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komalkapse-hub&label=Profile%20Views&color=2F81F7&style=flat" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=komalkapse-hub&label=Profile%20Views&color=2F81F7&style=flat" 
+  />
 </p>
 
 ---
@@ -35,7 +37,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/komal-kapse-2ba11b355/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Komalkapse-blue?style=for-the-badge&logo=linkedin"/>
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Komalkapse-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    />
   </a>
 </p>
 
@@ -44,7 +48,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,firebase,mysql,sqlite,git,github,c,cpp&perline=6" />
+  <img 
+    src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,firebase,mysql,sqlite,git,github,c,cpp&perline=6" 
+  />
 </p>
 
 ---
@@ -82,7 +88,10 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img 
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" 
+    width="100%"
+  />
 </p>
 
 <p align="center">
