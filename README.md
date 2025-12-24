@@ -1,7 +1,8 @@
 <!-- ===================== TOP DECORATIVE LINE ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
+<img 
+  src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=80"
+  alt="Programmer Workspace Banner"
+/>
 
 <!-- ===================== PROGRAMMER BANNER ===================== -->
 <p align="center">
