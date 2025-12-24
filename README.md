@@ -1,9 +1,8 @@
 <!-- ===================== TOP DECORATIVE LINE ===================== -->
 <img 
-  src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=80"
-  alt="Programmer Workspace Banner"
+  src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80"
+  alt="Dark Coding Banner"
 />
-
 <!-- ===================== PROGRAMMER BANNER ===================== -->
 <p align="center">
   <img 
