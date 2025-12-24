@@ -1,8 +1,8 @@
 <!-- ===================== TOP PROFESSIONAL PROGRAMMER GIRL BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1581091870627-3d5f3f5f1a64?auto=format&fit=crop&w=1600&q=80"
-    alt="Professional Woman Software Developer"
+    src="https://images.unsplash.com/photo-1618477247222-acbdb0e159b3?auto=format&fit=crop&w=1600&q=80"
+    alt="Android & Flutter Girl Developer"
     width="100%"
   />
 </p>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&vCenter=true&width=700&lines=Android+Developer;Flutter+Developer;Mobile+App+Developer;Clean+UI+%7C+Scalable+Architecture"
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2F81F7&center=true&vCenter=true&width=720&lines=Android+Developer;Flutter+Developer;Mobile+App+Developer;Clean+UI+%7C+Scalable+Architecture"
   />
 </p>
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Android & Flutter)
 
 <p align="center">
   <img 
