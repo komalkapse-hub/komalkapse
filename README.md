@@ -1,8 +1,8 @@
 <!-- ===================== TOP PROGRAMMER GIRL BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1600&q=80"
-    alt="Woman Programmer Banner"
+    src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1600&q=80"
+    alt="Professional Woman Programmer"
     width="100%"
   />
 </p>
